@@ -97,8 +97,6 @@ Top candidate drugs are generated for:
 - Parkinson's Disease
 - Alzheimer's Disease
 
----
-
 ### 6. Patient-Specific Drug Assessment
 
 The system evaluates:
