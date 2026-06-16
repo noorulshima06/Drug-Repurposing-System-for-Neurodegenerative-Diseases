@@ -158,8 +158,9 @@ This approach helps accelerate drug discovery while reducing development cost an
 ---
 
 ## Project Files
-DrugRepurpose.ipynb -> Main project notebook,
-README.md -> Project documentation.
+- Drug Dataset -> DataSource
+- DrugRepurpose.ipynb -> Main project notebook
+- README.md -> Project documentation.
 
 ---
 
